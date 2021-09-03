@@ -18,7 +18,7 @@ The number of cancelled theatre kickstarters remained mostly constant implying t
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_Based_on_Goals](Resources/Outcomes_vs_Goals.png)
 For the analysis of outcomes based on goals there are a few trends. The highest percentage of successfull kickstarters at approximately 76% were kickstarters with a goal of less than 1000 implying that a lower goal means the chance of a kickstarter reaching that goal is much lower.
-The highest percentage of failed kickstarters at a 100% failure rate were kickstarters with a goal between 45000 to 49999. What is interesting is that kickstarters with a goal above 50000 have a sucess rate of 12.5% even which might mean that these projects have much more hype and support behind them if they actually succeed
+The highest percentage of failed kickstarters at a 100% failure rate were kickstarters with a goal between 45000 to 49999. What is interesting is that kickstarters with a goal above 50000 have a sucess rate of 12.5% which might mean that these projects have much more hype and support behind them if they actually succeed
 The goal ranges that are still high but have the highest rate of success would be from the ranges of 35000 to 39999 and 40000 to 44999 with a sucess rate of aproximatley 67% implying that high budget kickstarters that still have a higher success rate belong in this goal range.
 ### Challenges and Difficulties Encountered
 For the challenges there was some data that did not make much sense but I did not see any instruction to remove which was the live outcome. As being live is not relevant when looking at the data from a future standpoint.
