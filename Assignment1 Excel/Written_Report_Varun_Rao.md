@@ -13,7 +13,7 @@ The purpose of doing this analysis is to further understand how trends and numbe
 ### Analysis of Outcomes Based on Launch Date
 ![Theatre_Outcomes_Based_on_Launch_Date](Resources/Theater_Outcomes_vs_Launch.png)
 The analysis of outcomes based on launch date revealed a few trends such as May having the highest number of successfull theatre kickstarters which progressively decreases to september.
-December has the lowest number of successfull outcomes. May also has the highest failed theatre kickstarters which implys that the highest demand for theatre kickstarters is at this time but supply is also very high causing many to fail aswell.
+December has the lowest number of successfull outcomes. May also has the highest failed theatre kickstarters which implies that the highest demand for theatre kickstarters is at this time but supply is also very high causing many to fail aswell.
 The number of cancelled theatre kickstarters remained mostly constant implying that date does not have an impact on kickstarters being cancelled.
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_Based_on_Goals](Resources/Outcomes_vs_Goals.png)
